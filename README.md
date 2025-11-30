@@ -9,5 +9,5 @@ Integrantes:
 
 Notas de implementación:
 
-- Utiliazación de Visual Code Studio para el desarrollo del código de los algorítmos
+- Utilización de Visual Studio Code para el desarrollo del código de los algorítmos
 
